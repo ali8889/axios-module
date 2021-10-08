@@ -38,7 +38,7 @@
   "dependencies": {
     "@nuxtjs/proxy": "^1.2.4",
     "axios": "^0.18.0",
-    "axios-retry": "^3.1.1",
+    "axios-retry": "^3.1.9",
     "consola": "^1.4.3"
   },
   "devDependencies": {
